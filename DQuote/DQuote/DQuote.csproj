@@ -96,6 +96,38 @@
     <Compile Include="SecondViewController.designer.cs">
       <DependentUpon>SecondViewController.cs</DependentUpon>
     </Compile>
+    <Compile Include="Login.cs" />
+    <Compile Include="Login.designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DQCategoryViewController.cs" />
+    <Compile Include="DQCategoryViewController.designer.cs">
+      <DependentUpon>DQCategoryViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DQAddQouteViewController.cs" />
+    <Compile Include="DQAddQouteViewController.designer.cs">
+      <DependentUpon>DQAddQouteViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DQLikesViewController.cs" />
+    <Compile Include="DQLikesViewController.designer.cs">
+      <DependentUpon>DQLikesViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DQPopularViewController.cs" />
+    <Compile Include="DQPopularViewController.designer.cs">
+      <DependentUpon>DQPopularViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DQLoginViewController.cs" />
+    <Compile Include="DQLoginViewController.designer.cs">
+      <DependentUpon>DQLoginViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DQSignupLoginViewController.cs" />
+    <Compile Include="DQSignupLoginViewController.designer.cs">
+      <DependentUpon>DQSignupLoginViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DQTabViewController.cs" />
+    <Compile Include="DQTabViewController.designer.cs">
+      <DependentUpon>DQTabViewController.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
