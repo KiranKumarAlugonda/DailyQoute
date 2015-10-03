@@ -1,0 +1,15 @@
+/Users/cp58178/Desktop/dq/DailyQoute/DQuote/DQuote/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/cp58178/Desktop/dq/DailyQoute/DQuote/DQuote/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/cp58178/Desktop/dq/DailyQoute/DQuote/DQuote/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/8rJ-Kc-sve-view-QS5-Rx-YEW.nib
+/Users/cp58178/Desktop/dq/DailyQoute/DQuote/DQuote/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/9pv-A4-QxB-view-tsR-hK-woN.nib
+/Users/cp58178/Desktop/dq/DailyQoute/DQuote/DQuote/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/cp58178/Desktop/dq/DailyQoute/DQuote/DQuote/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-49e-Tb-3d3.nib
+/Users/cp58178/Desktop/dq/DailyQoute/DQuote/DQuote/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/cp58178/Desktop/dq/DailyQoute/DQuote/DQuote/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/cp58178/Desktop/dq/DailyQoute/DQuote/DQuote/obj/iPhoneSimulator/Debug/actool/bundle/Assets.car
+/Users/cp58178/Desktop/dq/DailyQoute/DQuote/DQuote/obj/iPhoneSimulator/Debug/optimized/
+/Users/cp58178/Desktop/dq/DailyQoute/DQuote/DQuote/bin/iPhoneSimulator/Debug/DQuote.exe.mdb
+/Users/cp58178/Desktop/dq/DailyQoute/DQuote/DQuote/bin/iPhoneSimulator/Debug/DQuote.exe
+/Users/cp58178/Desktop/dq/DailyQoute/DQuote/DQuote/obj/iPhoneSimulator/Debug/DQuote.exe
+/Users/cp58178/Desktop/dq/DailyQoute/DQuote/DQuote/obj/iPhoneSimulator/Debug/DQuote.exe.mdb
+/Users/cp58178/Desktop/dq/DailyQoute/DQuote/DQuote/bin/iPhoneSimulator/Debug/Calabash.dll
